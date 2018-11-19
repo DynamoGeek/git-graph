@@ -1,0 +1,15 @@
+{
+  "name": "git-graph",
+  "version": "1.0.0",
+  "description": "A simple package that turns your Git Pull Requests into a Tree graph.",
+  "author": "Justin Marsh <justin@dynamogeek.com>",
+  "license": "mit",
+  "private": false,
+  "dependencies": {
+    "echarts-for-react": "^2.0.15-beta.0",
+    "react": "^16.6.3"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  }
+}
