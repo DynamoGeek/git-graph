@@ -4,6 +4,7 @@
   "description": "A simple package that turns your Git Pull Requests into a Tree graph.",
   "author": "Justin Marsh <justin@dynamogeek.com>",
   "license": "mit",
+  "repository": "https://github.com/DynamoGeek/git-graph",
   "private": false,
   "dependencies": {
     "echarts-for-react": "^2.0.15-beta.0",
